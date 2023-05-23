@@ -1,5 +1,7 @@
 # Changelog
 
+## [4.1.3](https://github.com/goparrot/nestjs-pubsub-event-bus/compare/v4.1.2...v4.1.3) (2023-05-23)
+
 ## [4.1.2](https://github.com/goparrot/nestjs-pubsub-event-bus/compare/v4.1.1...v4.1.2) (2022-12-22)
 
 
